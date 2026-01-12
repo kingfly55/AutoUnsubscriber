@@ -1,0 +1,4 @@
+pyzmail36
+imapclient
+beautifulsoup4
+tqdm

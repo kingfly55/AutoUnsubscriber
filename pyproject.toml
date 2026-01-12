@@ -1,0 +1,12 @@
+[project]
+name = "autounsubscriber"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "imapclient>=3.0.1",
+    "pyzmail36>=1.0.5",
+    "tqdm>=4.67.1",
+]
